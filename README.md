@@ -1,6 +1,6 @@
 <h1 align="center">PlayerDeMusica</h1>
 
-<img src="" />
+<img src="preview.png" />
 
 Projeto desenvolvido para tocar musica, com detalhes na duração da musica, dar play ou pause.
 
