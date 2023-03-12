@@ -1,4 +1,12 @@
-# playerDeMusica
-Projeto desenvolvido para tocar uma musica. Com HTML, CSS e JS
+<h1 align="center">PlayerDeMusica</h1>
 
-Intruido pelo novo projeto da rocketseat, boracodar.dev. Desenvolvi uma aplicação ultilizando HTML, CSS e JS, ultilizando conceitos importante como diplay grid e flex, modularização com js, conceitos de nomeação de variáveis baseado no Clean Code. 
+<img src="" />
+
+Projeto desenvolvido para tocar musica, com detalhes na duração da musica, dar play ou pause.
+
+## 🚀 Tecnologias
+- HTML
+- CSS -> Display flex e grid
+- JS
+- Modularização e conceitos de nomear variáveis baseado no clean code
+
